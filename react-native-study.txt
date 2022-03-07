@@ -1,0 +1,9 @@
+
+=> https://expo.dev/
+: android Studio 없이도 VSCode로 사용가능하도록 만들수 있음 
+(테스트용이나, 프로토타입 사용으로 만들어짐.)
+
+npm install --global expo-cli
+
+
+> React Native 는 브라우저가 아니고, IOS, ANDROID 에 브릿지 역할.
