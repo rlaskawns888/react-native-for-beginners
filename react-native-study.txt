@@ -7,3 +7,9 @@ npm install --global expo-cli
 
 
 > React Native 는 브라우저가 아니고, IOS, ANDROID 에 브릿지 역할.
+
+[세팅]
+1. 계정입력.
+ => expo login
+
+ 
